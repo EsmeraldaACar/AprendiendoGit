@@ -7,4 +7,8 @@ for ($i=0; $i < $a; $i++) {
     $a++;
 }
 
+echo 'Parte echa con los avances de pepe 1';
+echo 'Parte echa con los avances de pepe 2';
+echo 'Parte echa con los avances de pepe 3';
+
 ?>
